@@ -5,6 +5,7 @@
 
 ## GPU
 ### Frame Pacing
+- [The Elusive Frame Timing (article)](https://medium.com/@alen.ladavac/the-elusive-frame-timing-168f899aec92)
 - [Android: Swappy (article)](https://developer.android.com/games/sdk/frame-pacing)
 - [Myths and Misconceptions of Frame Pacing (video)](https://youtu.be/n0zT8YSSFzw)
 
