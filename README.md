@@ -1,5 +1,8 @@
 # Technical Library
 
+## Rendering
+- [GTC 2020: Next-Gen Rendering Technology at Pixar (video)](https://developer.nvidia.com/gtc/2020/video/s22266)
+
 ## GPU
 ### Frame Pacing
 - [Android: Swappy (article)](https://developer.android.com/games/sdk/frame-pacing)
