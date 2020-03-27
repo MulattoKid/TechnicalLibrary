@@ -5,6 +5,7 @@
 
 ## GPU
 ### Frame Pacing
+- [Fix Your Timestep (article)](https://gafferongames.com/post/fix_your_timestep/)
 - [Q&A: frame-rate-independence - Jonathan Blow (video)](https://youtu.be/fdAOPHgW7qM)
 - [The Elusive Frame Timing (article)](https://medium.com/@alen.ladavac/the-elusive-frame-timing-168f899aec92)
 - [Myths and Misconceptions of Frame Pacing (video)](https://youtu.be/n0zT8YSSFzw)
