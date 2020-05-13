@@ -17,5 +17,6 @@
 ## Memory Systems
 ### Cache
 - [Memory Bandwidth Napkin Math (article)](https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/https://www.forrestthewoods.com/blog/memory-bandwidth-napkin-math/)
+- [Hardware Store Elimination](https://travisdowns.github.io/blog/2020/05/13/intel-zero-opt.html#l1-and-l2)
 
 ## General Computer Architecture
